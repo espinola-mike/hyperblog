@@ -33,7 +33,19 @@ h1{
 .post{
     text-align: left;
     border: 2px solid #cfcfcf;
+    background: #19161c;
+    color: #eee;
+    margin-bottom: 1em;
+}
+
+.post__header{
+    background: #252129;
     padding: 2em;
+}
+
+.post p {
+    padding: 1em;
+    text-align: justify;
 }
 
 .contenido_extra{
